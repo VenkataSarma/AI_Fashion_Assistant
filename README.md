@@ -424,5 +424,3 @@ The demo covers:
 B.Tech CSE (Data Science)
 
 AI & Machine Learning Enthusiast
-
-Dare XAI Internship Assignment Submission
