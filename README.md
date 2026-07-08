@@ -1,6 +1,5 @@
 # 👔 AI Fashion Outfit Recommendation System
 
-## Dare XAI – Machine Learning & AI Engineer Intern Assignment
 
 An AI-powered Fashion Assistant that understands natural language queries and recommends complete outfit combinations using Gemini AI, MongoDB, and a custom compatibility scoring engine.
 
